@@ -1,0 +1,4 @@
+Test Metrics:
+MSE: 3.204606
+PSNR: 32.258114
+NRMSE: 0.010068
